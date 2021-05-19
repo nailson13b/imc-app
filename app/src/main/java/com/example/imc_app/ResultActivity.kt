@@ -1,4 +1,4 @@
-package com.example.imcapplication
+package com.example.imc_app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
